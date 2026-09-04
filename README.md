@@ -12,11 +12,11 @@ Based in **Thousand Oaks, CA**. Currently shipping at **Anchor Operating System*
 
 | Project | What it is |
 |--------|------------|
-| **[Max](https://github.com/koundinyapidaparthydev/Max)** | AI job application assistant — tailored resumes & cover letters, browser auto-apply, tracker. Web, mobile, desktop, extension. |
 | **[100x](https://github.com/koundinyapidaparthydev/100x)** | AI-first work delegation — tickets get an AI pass (with PII firewall & policy controls) before a human picks them up. |
 | **[Codebird](https://github.com/koundinyapidaparthydev/codebird)** | Tool-using code reviewer — sandboxed inspect → findings → precision/recall evals. Optional local MCP. |
 | **[Asklytics](https://github.com/koundinyapidaparthydev/Asklytics)** | Analytics Q&A agent — retrieve the right metric, answer from event data, score correctness with golden evals. |
 | **[Retro](https://github.com/koundinyapidaparthydev/Retro)** | Interview knowledge archive for DSA, HLD, and LLD — plain-English defs, animated flows, progress tracking. [Live →](https://koundinyapidaparthydev.github.io/Retro/) |
+| **[Max](https://github.com/koundinyapidaparthydev/Max)** | AI job application assistant (personal tooling — not on resume). Web, mobile, desktop, extension. |
 
 ---
 
