@@ -2,7 +2,7 @@
 
 **Full Stack Software Engineer** building AI-first products — from job-search agents to work-delegation platforms and tool-using code reviewers.
 
-Based in **New York**. Currently shipping at **Anchor Operating System**. Previously: Hornblower Group, Syscloud.
+Based in **Thousand Oaks, CA**. Currently shipping at **Anchor Operating System**. Previously: Hornblower Group, Syscloud.
 
 [Portfolio](https://koundinyapidaparthy.com) · [LinkedIn](https://www.linkedin.com/in/koundinyap) · [Email](mailto:koundinyapidaparthy@gmail.com)
 
@@ -42,7 +42,7 @@ Based in **New York**. Currently shipping at **Anchor Operating System**. Previo
 
 - **M.S. Computer Science** — Pace University (GPA 3.95, Dean’s List, TA for DSA)
 - **B.Tech CSE** — Lovely Professional University
-- **3+ years** building scalable web apps used by millions (ticketing, SaaS dashboards, real-time collaboration)
+- **Software Engineer** at Anchor Operating System; previously Hornblower Group (2M+ annual users) and Syscloud
 
 ---
 
